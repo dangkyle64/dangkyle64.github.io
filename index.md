@@ -12,4 +12,5 @@ Welcome to my notes.
 - Hooks
 - Context
 
+[Project Notes](/projects/read-book-api.md)
 [Express Notes](/notes/express.md)
