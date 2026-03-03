@@ -43,3 +43,7 @@ app.listen(3000, () => {
     console.log('Server running on http://localhost:3000')
 })
 ```
+
+[⬅ Back](../)
+---
+Last updated: 2026-03-03
